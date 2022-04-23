@@ -11,21 +11,21 @@ Terkadang kita penasaran siapa gerangan yang mengirimkan pesan lewat WhatsApp. J
 Tenang, Anda tidak perlu merasa penasaran lagi karena sudah ada aplikasi tertentu yang bisa membaca notifikasi WA. Jadi Anda akan segera tahu dari manakah pesan tersebut berasal. Terus bagaimana caranya? Mudah, Anda hanya harus membaca ulasannya di bawah ini terlebih dahulu.
 
 Cara Buat Nada Dering WA Sebut Nama di Android
-==================
+--------------------
 
-Selama ini kita pasti `mengganti nada dering WA <https://www.wameta.id/ganti-nada-dering-wa-dengan-lagu/>`_ yang itu-itu saja. Setelah berapa lama, tentu akan terasa membosankan. Selain itu, Anda juga tidak akan tahu siapa pengirim dari pesan yang masuk ke WhatsApp tersebut.
+Selama ini kita pasti sudah mengetahui cara `ganti nada dering WA <https://www.technolati.com/2022/01/cara-ganti-nada-dering-wa-dengan-lagu.html>`_ yang itu-itu saja. Setelah berapa lama, tentu akan terasa membosankan. Selain itu, Anda juga tidak akan tahu siapa pengirim dari pesan yang masuk ke WhatsApp tersebut.
 
-Kabar baiknya, sekarang sudah ada aplikasi yang bisa membaca notifikasi di HP, salah satunya adalah `Notification Reader: Shouter <https://news.google.com/articles/CAIiEOxZHoTcvT1ZvNlC1m_sDr0qGQgEKhAIACoHCAowgoytCzCPl8UDMIa3rgc?uo=CAUiP2h0dHBzOi8vd3d3LmphbWJpbm93LmNvbS9uYWRhLWRlcmluZy13YS1zZWJ1dC1uYW1hLXBlbmdpcmltbnlhL9IBAA&hl=en-ID&gl=ID&ceid=ID%3Aen>`_. Aplikasi ini akan menyebutkan notifikasi apa saja yang masuk ke HP Anda, tidak hanya dari WhatsApp, namun juga aplikasi lainnya.
+Kabar baiknya, sekarang sudah ada aplikasi yang bisa membaca notifikasi di HP, salah satunya adalah `Shouter Notification Reader <https://www.pelita.or.id/shouter-cara-buat-nada-dering-wa/>`_. Aplikasi ini akan menyebutkan notifikasi apa saja yang masuk ke HP Anda, tidak hanya dari WhatsApp, namun juga aplikasi lainnya.
 
 Bagaimana cara kerja dari aplikasi ini? Shouter bekerja layaknya asisten virtual. Aplikasi ini dibekali dengan kemampuan untuk membaca semua jenis notifikasi yang masuk ke HP. 
 Saat ada pesan maupun panggilan masuk, Shouter akan membaca siapa pengirimnya maupun isi dari pesan tersebut. Jadi, melalui aplikasi ini, Anda tidak akan dibuat penasaran terutama jika memang harus jauh dari HP. 
 
-Baca juga: `Cara Buat Nada Dering Sebut Nama Sendiri <https://www.dmo.or.id/cara-nada-dering-wa-menyebutkan-nama/>`_
+Baca juga: `Nada Dering WA Sebut Nama Sendiri <https://whitepaper.co.id/nada-dering-sound-of-text-sebut-nama/>`_
 
 Anda akan mendengar jelas siapa pengirim pesan dan apa isinya, jadi bisa langsung membalasnya jika memang penting.
 
 Bagaimana Cara Mendapatkan Aplikasi Shouter?
-==============================
+-----------------
 
 Kabar baiknya, aplikasi Shouter sudah bisa Anda download gratis dari Google Play dan App Store. Anda tinggal buka Google Play dan App Store untuk download aplikasi ini dan memasangnya di HP.
 
@@ -40,10 +40,10 @@ Shouter juga bisa dipasang di hampir semua OS Android, minimal Anda harus memili
 5. Memberitahukan waktu (hanya di versi pro).
 6. Voice reminder.
 
-Tutorial terkait: `Cara Ganti Nada Dering WA di Android dan iPhone <https://news.google.com/articles/CAIiEIsuCQ7zNqQeLw0BYcHrODMqGQgEKhAIACoHCAowqNamCzCQ4b4DMPbKkAc?uo=CAUiN2h0dHBzOi8vd3d3LnBlbGl0YS5vci5pZC9jYXJhLW1lbmdnYW50aS1uYWRhLWRlcmluZy13YS_SAQA&hl=en-ID&gl=ID&ceid=ID%3Aen>`_
+Tutorial terkait: `Cara Ganti Nada Dering WA di Android dan iPhone <https://www.statmat.net/ganti-nada-dering-wa-buatan-sendiri/>`_
 
 Penggunaan Shouter
-==================
+-------------
 
 Shouter sudah sering digunakan secara kasual, yaitu oleh orang kebanyakan yang ingin asisten virtual membacakan notifikasi di HP. Namun, aplikasi ini juga sering atau disarankan untuk penggunaan ketika aktivitas atau profesi seperti di bawah ini:
 
@@ -54,7 +54,7 @@ Selama bersepeda/bermotor.
 - Anda bebas mengatur konfigurasi, aplikasi apa saja yang bisa dibaca oleh Shouter. Jika Anda ingin Shouter membacakan notifikasi WA, maka Anda harus memasukkan WA sebagai aplikasi yang terdaftar di Shouter.
 
 Cara Install dan Menggunakan Aplikasi Shouter
-==================
+----------------
 
 Cara download, install, dan konfigurasi Shouter sangat mudah. Jika Anda belum pernah sebelumnya, maka bisa mempelajari tutorialnya di bawah ini:
 
@@ -70,9 +70,9 @@ Cara download, install, dan konfigurasi Shouter sangat mudah. Jika Anda belum pe
 10. Sekarang, setiap kali ada notifikasi dari WhatsApp, Shouter akan membacakannya untuk Anda. Jadi akan segera tahu jika ada pesan penting yang memang harus dijawab dengan segera.
 
 Cara Lain Buat Nada Dering WA dengan Suara Kustom
-==================
+-----------------
 
-Lihat juga: `Cara Ganti Nada Dering dengan Suara Google <https://www.autobild.co.id/2021/05/cara-ganti-nada-dering-wa-suara-google.html>`_
+Lihat juga: `Cara Ganti Nada Dering dengan Suara Google <https://www.statmat.net/sound-text-nada-dering-wa/>`_
 
 Shouter akan membaca notifikasi yang masuk ke HP secara otomatis, termasuk WA. Namun bagaimana jika Anda ingin nada dering WA menggunakan suara khusus? Tenang, ada tutorialnya untuk Anda, yaitu melalui situs Voice of Text. Berikut tutorialnya:
 
@@ -87,5 +87,22 @@ Shouter akan membaca notifikasi yang masuk ke HP secara otomatis, termasuk WA. N
 9. Jika sudah, buka WhatsApp dan masuk ke Pengaturan.
 10. Klik Notifikasi > Nada Notifikasi dan pilih nada dering yang dibuat sebelumnya.
 11. Selesai.
+
+Cara Ganti Nada Dering iPhone
+----------------
+
+Jikalau tadi kita selalu berbicara mengenai nada dering Android, anda mungkin bingung bagaimana cara mengatur file audio sebagai nada dering iPhone. Kamu dapat mengatur file-file tersebut sebagai nada dering default baik itu untuk WhatsApp, nada dering telepon atau yang lain. Berikut ini panduan langkah-langkahnya:
+
+- Bukalah menu pengaturan pada handphone iPhone anda.
+- Selanjutnya, gulirkan layar ke bawah dan bukalah suara.
+- Selanjutnya, pilih nada dering telepon baik itu Untuk SIM 1 atau pun SIM 2.
+- Bukalah File Manager dan cari lokasi unduhan file tempat anda menyimpan nada dering yang diinginkan.
+- Klik ok dan dengan demikian nada dering anda sudah berubah menjadi nada dering iPhone atau suara musik sesuai keinginan.
  
 Dengan aplikasi Shouter dan situs Voice of Text, nada dering WA akan otomatis menyebutkan namanya. Jadi Anda bisa tahu dengan akurat siapa pengirim pesan tersebut dan apakah perlu langsung dibalas.
+
+**Referensi:**
+
+- `Autobild.co.id <https://www.autobild.co.id>`_
+- `Sound of text wa jadi nada dering <https://www.sebuahutas.com>`_
+- `Nada dering wa sebut nama <https://whitepaper.co.id/>`_
