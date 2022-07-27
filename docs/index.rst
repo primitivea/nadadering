@@ -116,3 +116,4 @@ Contents
 
    style-guide
    spongebob/index
+   suara-google-iphone/index
