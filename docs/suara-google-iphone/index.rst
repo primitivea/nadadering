@@ -63,4 +63,4 @@ iTunes adalah aplikasi macOS yang berperan untuk mengatur segala kepentingan pad
 
 Jadi itulah cara ganti nada dering suara Google untuk iPhone lewat aplikasi maupun situs terpercaya. Kamu bisa memilih salah satu yang dianggap mudah untuk kamu praktekkan. Semua cara di atas terbilang mudah asal kamu mengikuti step by stepnya dengan benar.
 
-Sumber: https://fedora.or.id/sound-of-text-iphone/
+**Sumber:** https://fedora.or.id/sound-of-text-iphone/
